@@ -1,0 +1,967 @@
+{
+  "annotations": {
+    "TS66_s4gp1": {
+      "end": 1683,
+      "seqid": "config/reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 1708,
+      "seqid": "config/reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.2.0"
+  },
+  "nodes": {
+    "KC853228": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "T16A",
+          "Y291H"
+        ]
+      }
+    },
+    "KC853766": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "L235I"
+        ]
+      }
+    },
+    "KC885956": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KC896774": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KC994453": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF001513": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "M173I"
+        ]
+      }
+    },
+    "KF001516": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF007044": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF007052": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF007060": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "M554K"
+        ]
+      }
+    },
+    "KF007068": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF007076": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF007108": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF007116": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF007140": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF007148": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF021597": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF034911": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "D358N"
+        ]
+      }
+    },
+    "KF034919": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A143S"
+        ]
+      }
+    },
+    "KF150616": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "N551S",
+          "G552R"
+        ]
+      }
+    },
+    "KF226113": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF258952": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF258953": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF258987": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF261988": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF278745": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF420296": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF420297": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF609503": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF609511": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "V223A",
+          "P230T",
+          "N285D"
+        ]
+      }
+    },
+    "KF662943": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF667739": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KF732005": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "Q231P"
+        ]
+      }
+    },
+    "KF918659": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KJ023067": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KJ023074": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "D127E"
+        ]
+      }
+    },
+    "KJ023082": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KJ195792": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "P224S",
+          "E287K"
+        ]
+      }
+    },
+    "KJ195797": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "V104I"
+        ]
+      }
+    },
+    "KJ411975": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KJ415822": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KJ415823": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KJ476633": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KJ476641": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KJ476649": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "N112K"
+        ]
+      }
+    },
+    "KJ633809": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KJ946417": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "G417S"
+        ]
+      }
+    },
+    "KM374042": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A143T"
+        ]
+      }
+    },
+    "KM392387": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KM392395": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP414106": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP414114": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A143V"
+        ]
+      }
+    },
+    "KP414122": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP414130": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "V104I",
+          "R148K",
+          "N300S",
+          "D486G"
+        ]
+      }
+    },
+    "KP414138": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP414146": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "K182R"
+        ]
+      }
+    },
+    "KP414154": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "D358G"
+        ]
+      }
+    },
+    "KP414162": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "K65R",
+          "A143T",
+          "N300S"
+        ]
+      }
+    },
+    "KP414170": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP414178": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP416598": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP416606": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP416614": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A143S",
+          "I540V"
+        ]
+      }
+    },
+    "KP416622": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A169T",
+          "V188I"
+        ]
+      }
+    },
+    "KP416630": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP416638": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP416646": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP417422": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP417430": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A146T",
+          "S267C",
+          "K414R"
+        ]
+      }
+    },
+    "KP762517": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "G41E",
+          "A143V"
+        ]
+      }
+    },
+    "KP864443": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "P15L",
+          "K20R",
+          "R148K",
+          "Q172H"
+        ]
+      }
+    },
+    "KP864455": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP864457": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP864459": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KP969031": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "KY286419": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "MG214204": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "S236F"
+        ]
+      }
+    },
+    "MG214206": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "MG214207": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A143T"
+        ]
+      }
+    },
+    "MG214208": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A143T",
+          "D486E"
+        ]
+      }
+    },
+    "MG214209": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "D358N"
+        ]
+      }
+    },
+    "MG214211": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A228E"
+        ]
+      }
+    },
+    "MN686727": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "TS66_s4gp1": "MNTQILVFALVAIIPTNADKICLGHHAVSNGTKVNTLTERGVEVVNATETVERTSIPRICSKGKRAVDLGQCGLLGTITGPPQCDQFLEFSADLIIERREGSDVCYPGKFVNEEALRQILRESGGIDKETMGFTYSGIRTNGATSACRRSGSSFYAEMKWLLSNTDNAAFPQTTKSYKNTRKDPALIIWGIHHSGSTTEQTKLYGSGNKLITVGSSNYQQSFVPSPGARPQVNGQSGRIDFHWLMLNPNDTVTFSFNGAFIAPDRASFLRGKSMGIQSGVQVDANCEGDCYHNGGTIISNLPFQNINSRAVGKCPRYVKQESLLLATGMKNVPEIPKGRGLFGAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQITGKLNRLIEKTNQQFELIDNEFTEVERQIGNVINWTRDSMTEVWSYNAELLVAMENQHTIDLADSEMNKLYERVRRQLRENAEEDGTGCFEIFHKCDDDCMASIRNNTYDHSKYREEAMQNRIQIDPVKLSSGYKDVILWFSFGASCFILLAIAMGLVFICVKNGNMRCTICI*"
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "N183S",
+          "G195V"
+        ]
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "I298M"
+        ]
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "Q235L",
+          "T410N",
+          "A541V"
+        ]
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "V11I",
+          "S55N",
+          "A66T",
+          "T130A",
+          "T173M",
+          "D183N",
+          "I188V",
+          "T198A",
+          "I211V",
+          "N293S",
+          "N307D",
+          "E321R",
+          "R414K",
+          "M427I",
+          "N455D",
+          "R462K"
+        ]
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000016": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "L186I"
+        ]
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "D485N"
+        ]
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "E396A",
+          "S499R"
+        ]
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "S136N"
+        ]
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "L394I"
+        ]
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "R270K"
+        ]
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "V282I",
+          "Y377F"
+        ]
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000030": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000031": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000032": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "N208S"
+        ]
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "G552R"
+        ]
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "N551S"
+        ]
+      }
+    },
+    "NODE_0000043": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "R65K"
+        ]
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "I14V",
+          "R65K",
+          "R321K"
+        ]
+      }
+    },
+    "NODE_0000047": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "V430L"
+        ]
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "I536M"
+        ]
+      }
+    },
+    "NODE_0000050": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000051": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "R65M"
+        ]
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000053": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "N551S",
+          "G552R"
+        ]
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000055": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "R65K",
+          "T140A"
+        ]
+      }
+    },
+    "NODE_0000059": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000062": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000063": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000064": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000065": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "V7A"
+        ]
+      }
+    },
+    "NODE_0000066": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "S519R"
+        ]
+      }
+    },
+    "NODE_0000067": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000069": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000070": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000071": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000072": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "N285D"
+        ]
+      }
+    },
+    "NODE_0000073": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000074": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "A140T"
+        ]
+      }
+    },
+    "NODE_0000075": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "E122K",
+          "L186I",
+          "N285D"
+        ]
+      }
+    },
+    "NODE_0000076": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000077": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000078": {
+      "aa_muts": {
+        "TS66_s4gp1": [
+          "K414T"
+        ]
+      }
+    },
+    "NODE_0000079": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000080": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000081": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000082": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000083": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000092": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000093": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000094": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000095": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    },
+    "NODE_0000096": {
+      "aa_muts": {
+        "TS66_s4gp1": []
+      }
+    }
+  },
+  "reference": {
+    "TS66_s4gp1": "MNTQILVFALVAIIPTNADKICLGHHAVSNGTKVNTLTERGVEVVNATETVERTSIPRICSKGKRAVDLGQCGLLGTITGPPQCDQFLEFSADLIIERREGSDVCYPGKFVNEEALRQILRESGGIDKETMGFTYSGIRTNGATSACRRSGSSFYAEMKWLLSNTDNAAFPQTTKSYKNTRKDPALIIWGIHHSGSTTEQTKLYGSGNKLITVGSSNYQQSFVPSPGARPQVNGQSGRIDFHWLMLNPNDTVTFSFNGAFIAPDRASFLRGKSMGIQSGVQVDANCEGDCYHNGGTIISNLPFQNINSRAVGKCPRYVKQESLLLATGMKNVPEIPKGRGLFGAIAGFIENGWEGLIDGWYGFRHQNAQGEGTAADYKSTQSAIDQITGKLNRLIEKTNQQFELIDNEFTEVERQIGNVINWTRDSMTEVWSYNAELLVAMENQHTIDLADSEMNKLYERVRRQLRENAEEDGTGCFEIFHKCDDDCMASIRNNTYDHSKYREEAMQNRIQIDPVKLSSGYKDVILWFSFGASCFILLAIAMGLVFICVKNGNMRCTICI*"
+  }
+}
